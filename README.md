@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @almath
-- 👀 I’m interested in chess game analysis using Python and Pygame (?)
-- 🌱 I’m currently learning about chess game programming
-- 💞️ I’m looking to collaborate on chess game analysis after I develop my first program
+- 👀 I’m interested in chess game analysis using Python, Pygame (?), other tools
+- 🌱 I’m currently learning about chess analysis/game programming
+- 💞️ I’m looking to collaborate on chess game analysis after developing my first program
 - 📫 How to reach me: rhenals@alum.mit.edu
 
 <!---
